@@ -15,4 +15,4 @@ Execute in any directory
 $ requpd8
 ```
 ## License
-[MIT](https://opensource.org/licenses/MIT)
+[MIT](https://github.com/edmamerto/reqtxtupd8/blob/master/LICENSE.md)

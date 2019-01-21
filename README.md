@@ -1,4 +1,5 @@
 # reqtxtupd8
+[![PyPI version](https://badge.fury.io/py/reqtxtupd8.svg)](https://badge.fury.io/py/reqtxtupd8)
 > This module writes your python package list to requirements.txt
 
 

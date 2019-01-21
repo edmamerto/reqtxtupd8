@@ -5,4 +5,4 @@ install:
   - pip install pylint
 script: 
   - pylint setup.py
-  - pylint reqtxtupd8/__init.py
+  - pylint reqtxtupd8/__init__.py

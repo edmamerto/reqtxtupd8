@@ -5,7 +5,7 @@
 
 Because who wants to have to run this all the time? 
 ```
-pip freeze > requirements.txt
+$ pip freeze > requirements.txt
 ```
 
 ## Install

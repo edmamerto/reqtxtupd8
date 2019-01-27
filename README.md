@@ -10,7 +10,7 @@ $ pip install reqtxtupd8
 ```
 
 ## Run
-Execute in any directory
+In your project root
 ```sh
 $ requpd8
 ```
